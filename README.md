@@ -1,1 +1,3 @@
 # TodoList_LocalStorage
+
+This To-Do List application is a simple yet powerful task management tool built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks efficiently while ensuring data persistence using local storage. With local storage, tasks remain saved even after refreshing the page, providing a seamless user experience. The application features an intuitive interface for easy task management, making it a great project for practicing JavaScript and front-end development. Future enhancements may include task categorization, dark mode, and due date reminders to improve functionality further.
